@@ -1,0 +1,24 @@
+{
+  "name": "expresstodoprctice",
+  "version": "1.0.0",
+  "description": "Practice of todo Express",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+  "start": "nodemon app.js"  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azharfarhann/expressTodoPrctice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azharfarhann/expressTodoPrctice/issues"
+  },
+  "homepage": "https://github.com/azharfarhann/expressTodoPrctice#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
